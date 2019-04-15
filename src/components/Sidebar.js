@@ -44,7 +44,7 @@ const Sidebar = () => (
                                <Link to={node.frontmatter.path}>
                                     <Img 
                                         className="card-image-top"
-                                        fluid={node.frontmatter.image.childImageSharop.fluid} 
+                                        fluid={node.frontmatter.image.childImageSharp.fluid} 
                                         />
                                </Link>  
                                 <CardBody>
