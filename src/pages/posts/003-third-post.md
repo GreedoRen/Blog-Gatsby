@@ -2,7 +2,6 @@
 title: 'third post - CSS'
 date: 2018-12-22 19:00:12
 author: 'Not You'
-path: '/third-post'
 image: ../../images/javascript.jpg
 tags: 
  - design

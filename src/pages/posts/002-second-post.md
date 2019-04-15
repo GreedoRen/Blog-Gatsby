@@ -2,7 +2,6 @@
 title: 'second post - HTML'
 date: 2018-12-21 07:00:12
 author: 'WHat MAn'
-path: '/second-post'
 image: ../../images/javascript.jpg
 tags: 
  - code
