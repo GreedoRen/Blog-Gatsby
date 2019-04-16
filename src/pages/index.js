@@ -30,8 +30,7 @@ const IndexPage = () => (
   </Layout>
 )
 
-const indexQuery = graphql
-  `
+const indexQuery = graphql`
   query {
     allMarkdownRemark(sort: {fields:[frontmatter___date], order: DESC}) {
       edges{

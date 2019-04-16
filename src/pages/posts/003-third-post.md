@@ -1,7 +1,7 @@
 ---
 title: 'third post - CSS'
 date: 2018-12-22 19:00:12
-author: 'Not You'
+author: 'Jane Doe'
 image: ../../images/javascript.jpg
 tags: 
  - design
