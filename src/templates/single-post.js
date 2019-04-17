@@ -10,6 +10,7 @@ import { DiscussionEmbed } from 'disqus-react'
 
 
 
+
 const SinglePost = ({ data, pageContext }) => {
     const post = data.markdownRemark.frontmatter
     const author = authors.find(x => x.name === post.author)    
